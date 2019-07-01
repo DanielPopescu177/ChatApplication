@@ -1,0 +1,8 @@
+C:\Users\popescda\Documents\NetBeansProjects\ChatApplication\src\chatapplication\ChatApplication.java
+C:\Users\popescda\Documents\NetBeansProjects\ChatApplication\src\chatapplication\client\ClientPeer.java
+C:\Users\popescda\Documents\NetBeansProjects\ChatApplication\src\chatapplication\client\TextClient.java
+C:\Users\popescda\Documents\NetBeansProjects\ChatApplication\src\chatapplication\server\Server.java
+C:\Users\popescda\Documents\NetBeansProjects\ChatApplication\src\chatapplication\server\ServerPeer.java
+C:\Users\popescda\Documents\NetBeansProjects\ChatApplication\src\chatapplication\server\config\ServerConfig.java
+C:\Users\popescda\Documents\NetBeansProjects\ChatApplication\src\chatapplication\structs\Message.java
+C:\Users\popescda\Documents\NetBeansProjects\ChatApplication\src\chatapplication\structs\PrivateMessage.java
